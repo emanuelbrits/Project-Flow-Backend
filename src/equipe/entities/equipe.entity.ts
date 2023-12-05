@@ -1,4 +1,3 @@
-import { type } from 'os'
 import { Projeto } from 'src/projeto/entities/projeto.entity'
 import { Tarefa } from 'src/tarefa/entities/tarefa.entity'
 import { Usuario } from 'src/usuario/entities/usuario.entity'

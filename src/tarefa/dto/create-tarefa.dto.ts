@@ -1,11 +1,5 @@
 import {
-  IsAlphanumeric,
   IsBoolean,
-  IsDate,
-  IsEmail,
-  IsEnum,
-  IsIn,
-  IsInt,
   IsNotEmpty,
   IsNumber,
   IsString,
